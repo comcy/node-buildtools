@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# own build artifacts
+dist/
+index.esm.js
+index.esm.js.map
+index.d.ts
